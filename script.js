@@ -359,7 +359,7 @@ function overrideCheck(data) {
 
 
 var sheetURL =
-  "https://spreadsheets.google.com/feeds/list/18LpeTf1wTmq7bXVkbvflIUy3GnHstTc8joNTt3J1NVU";
+  "https://spreadsheets.google.com/feeds/list/18LpeTf1wTmq7bXVkbvflIUy3GnHstTc8joNTt3J1NVU/";
 var sheetUrlEnd = "/public/values?alt=json";
 
 var settingsUrl = "https://spreadsheets.google.com/feeds/cells/18LpeTf1wTmq7bXVkbvflIUy3GnHstTc8joNTt3J1NVU/3/public/values?alt=json";
