@@ -359,10 +359,10 @@ function overrideCheck(data) {
 
 
 var sheetURL =
-  "https://spreadsheets.google.com/feeds/list/1T-HUAINDX69-UYUHhOO1jVjZ_Aq0Zqi1z08my0KHzqU/";
+  "https://spreadsheets.google.com/feeds/list/18LpeTf1wTmq7bXVkbvflIUy3GnHstTc8joNTt3J1NVU";
 var sheetUrlEnd = "/public/values?alt=json";
 
-var settingsUrl = "https://spreadsheets.google.com/feeds/cells/1T-HUAINDX69-UYUHhOO1jVjZ_Aq0Zqi1z08my0KHzqU/3/public/values?alt=json";
+var settingsUrl = "https://spreadsheets.google.com/feeds/cells/18LpeTf1wTmq7bXVkbvflIUy3GnHstTc8joNTt3J1NVU/3/public/values?alt=json";
 var settingsQueries = { //NOT USED
   override: "data.feed.entry[3].content.$t"
 };
