@@ -338,7 +338,7 @@ function overrideCheck(data) {
 }
 
 var sheetURL =
-  "https://spreadsheets.google.com/feeds/list/1T-HUAINDX69-UYUHhOO1jVjZ_Aq0Zqi1z08my0KHzqU/";
+  "https://spreadsheets.google.com/feeds/list/18LpeTf1wTmq7bXVkbvflIUy3GnHstTc8joNTt3J1NVU/";
 var sheetUrlEnd = "/public/values?alt=json";
 
 //Reload interval
